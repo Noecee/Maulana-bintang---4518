@@ -1,0 +1,10 @@
+{
+  "name": "Wilydamm",
+  "description": "Wehwily",
+  "repository": "https://github.com/Noecee/Maulana-bintang---4518.git",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot"]
+  "buildpacks": [
+    {"url": "heroku/nodejs"}
+  ]
+}
