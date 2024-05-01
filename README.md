@@ -1,7 +1,7 @@
 # Games-Wabot
 
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Noecee/Maulana-bintang---4518.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Noecee/Maulana-bintang---4518)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
